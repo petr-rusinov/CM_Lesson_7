@@ -26,5 +26,8 @@
     <ClInclude Include="..\..\..\..\..\..\conan\students.pb.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="StudentGroups.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
